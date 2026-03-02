@@ -34,7 +34,7 @@ Binary classification pipeline to detect mobile ad click fraud using the [Talkin
 - **Ensemble**: rank averaging of LightGBM and XGBoost to handle calibration differences between models
 
 ## Usage
-Run `report.ipynb` top to bottom. Requires `train.csv` and `test.csv` from the Kaggle competition placed in the project root.
+Run `report.ipynb` top to bottom. Requires `train.csv` and `test.csv` to be placed in the project root.
 
 ## Limitations
 
